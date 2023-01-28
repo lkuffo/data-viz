@@ -1,0 +1,129 @@
+barrio_codigo;barrio_nombre;distrito_codigo;distrito_nombre;municipio_codigo;municipio_nombre;superficie_km2;densidad_por_km2
+0796011;        Palacio;079601;    Centro ;0796;Madrid;1.46;15323.29
+0796012;        Embajadores;079601;    Centro ;0796;Madrid;1.03;43345.63
+0796013;        Cortes;079601;    Centro ;0796;Madrid;0.59;17850.85
+0796014;        Justicia;079601;    Centro ;0796;Madrid;0.75;21866.67
+0796015;        Universidad;079601;    Centro ;0796;Madrid;0.93;33051.61
+0796016;        Sol;079601;    Centro ;0796;Madrid;0.45;16304.44
+0796021;        Imperial;079602;    Arganzuela ;0796;Madrid;0.98;23105.10
+0796022;        Las Acacias;079602;    Arganzuela ;0796;Madrid;1.10;33318.18
+0796023;        La Chopera;079602;    Arganzuela ;0796;Madrid;0.56;35276.79
+0796024;        Legazpi;079602;    Arganzuela ;0796;Madrid;1.37;13826.28
+0796025;        Delicias;079602;    Arganzuela ;0796;Madrid;1.07;25485.05
+0796026;        Palos de Moguer;079602;    Arganzuela ;0796;Madrid;0.65;39372.31
+0796027;        Atocha;079602;    Arganzuela ;0796;Madrid;0.79;1401.27
+0796031;        Pacífico;079603;    Retiro ;0796;Madrid;0.76;44271.05
+0796032;        Adelfas;079603;    Retiro ;0796;Madrid;0.61;29750.82
+0796033;        Estrella;079603;    Retiro ;0796;Madrid;1.02;22701.96
+0796034;        Ibiza;079603;    Retiro ;0796;Madrid;0.50;42698.00
+0796035;        Jerónimos;079603;    Retiro ;0796;Madrid;1.89;3730.69
+0796036;        Niño Jesús;079603;    Retiro ;0796;Madrid;0.64;23706.25
+0796041;        Recoletos;079604;    Salamanca ;0796;Madrid;0.87;17828.74
+0796042;        Goya;079604;    Salamanca ;0796;Madrid;0.77;38016.88
+0796043;        Fuente del Berro;079604;    Salamanca ;0796;Madrid;0.83;24812.05
+0796044;        Guindalera;079604;    Salamanca ;0796;Madrid;1.58;25740.51
+0796045;        Lista;079604;    Salamanca ;0796;Madrid;0.54;38435.19
+0796046;        Castellana;079604;    Salamanca ;0796;Madrid;0.77;22090.91
+0796051;        El Viso;079605;    Chamartín ;0796;Madrid;1.72;9911.63
+0796052;        Prosperidad;079605;    Chamartín ;0796;Madrid;1.01;35740.59
+0796053;        Ciudad Jardín;079605;    Chamartín ;0796;Madrid;0.77;23794.81
+0796054;        Hispanoamérica;079605;    Chamartín ;0796;Madrid;1.71;18266.67
+0796055;        Nueva España;079605;    Chamartín ;0796;Madrid;1.78;13539.33
+0796056;        Castilla;079605;    Chamartín ;0796;Madrid;2.13;7789.67
+0796061;        Bellas Vistas;079606;    Tetuan ;0796;Madrid;0.73;38923.29
+0796062;        Cuatro Caminos;079606;    Tetuan ;0796;Madrid;1.19;28535.29
+0796063;        Castillejos;079606;    Tetuan ;0796;Madrid;0.69;28962.32
+0796064;        Almenara;079606;    Tetuan ;0796;Madrid;0.99;22232.32
+0796065;        Valdeacederas;079606;    Tetuan ;0796;Madrid;1.17;21574.36
+0796066;        Berruguete;079606;    Tetuan ;0796;Madrid;0.60;40533.33
+0796071;        Gaztambide;079607;    Chamberí ;0796;Madrid;0.49;45732.65
+0796072;        Arapiles;079607;    Chamberí ;0796;Madrid;0.57;42435.09
+0796073;        Trafalgar;079607;    Chamberí ;0796;Madrid;0.62;39561.29
+0796074;        Almagro;079607;    Chamberí ;0796;Madrid;0.96;20517.71
+0796075;        Ríos Rosas;079607;    Chamberí ;0796;Madrid;1.01;26544.55
+0796076;        Vallehermoso;079607;    Chamberí ;0796;Madrid;1.08;18306.48
+0796081;        El Pardo;079608;    Fuencarral-El Pardo ;0796;Madrid;187.77;18.09
+0796082;        Fuentelarreina;079608;    Fuencarral-El Pardo ;0796;Madrid;1.51;2113.91
+0796083;        Peña Grande;079608;    Fuencarral-El Pardo ;0796;Madrid;2.86;15476.92
+0796084;        El Pilar;079608;    Fuencarral-El Pardo ;0796;Madrid;1.37;33451.82
+0796085;        La Paz;079608;    Fuencarral-El Pardo ;0796;Madrid;2.17;15578.80
+0796086;        Valverde;079608;    Fuencarral-El Pardo ;0796;Madrid;9.03;6642.86
+0796087;        Mirasierra;079608;    Fuencarral-El Pardo ;0796;Madrid;6.91;4465.70
+0796088;        El Goloso;079608;    Fuencarral-El Pardo ;0796;Madrid;26.38;658.98
+0796091;        Casa de Campo;079609;    Moncloa-Aravaca ;0796;Madrid;17.44;735.95
+0796092;        Argüelles;079609;    Moncloa-Aravaca ;0796;Madrid;0.77;31062.34
+0796093;        Ciudad Universitaria;079609;    Moncloa-Aravaca ;0796;Madrid;14.14;1135.01
+0796094;        Valdezarza;079609;    Moncloa-Aravaca ;0796;Madrid;1.44;20317.36
+0796095;        Valdemarín;079609;    Moncloa-Aravaca ;0796;Madrid;3.26;1966.26
+0796096;        El Plantío;079609;    Moncloa-Aravaca ;0796;Madrid;3.56;764.89
+0796097;        Aravaca;079609;    Moncloa-Aravaca ;0796;Madrid;5.86;4384.30
+0796101;        Los Cármenes;079610;    Latina ;0796;Madrid;1.30;13116.15
+0796102;        Puerta del Angel;079610;    Latina ;0796;Madrid;1.38;29748.55
+0796103;        Lucero;079610;    Latina ;0796;Madrid;1.70;20756.47
+0796104;        Aluche;079610;    Latina ;0796;Madrid;2.86;22839.86
+0796105;        Campamento;079610;    Latina ;0796;Madrid;9.16;2050.22
+0796106;        Cuatro Vientos;079610;    Latina ;0796;Madrid;5.44;1003.13
+0796107;        Las Aguilas;079610;    Latina ;0796;Madrid;3.63;14038.84
+0796111;        Comillas;079611;    Carabanchel ;0796;Madrid;0.67;33000.00
+0796112;        Opañel;079611;    Carabanchel ;0796;Madrid;1.14;28110.53
+0796113;        San Isidro;079611;    Carabanchel ;0796;Madrid;1.90;19997.89
+0796114;        Vista Alegre;079611;    Carabanchel ;0796;Madrid;1.63;27212.27
+0796115;        Puerta Bonita;079611;    Carabanchel ;0796;Madrid;1.60;20632.50
+0796116;        Buenavista;079611;    Carabanchel ;0796;Madrid;5.60;8080.36
+0796117;        Abrantes;079611;    Carabanchel ;0796;Madrid;1.56;18844.87
+0796121;        Orcasitas;079612;    Usera ;0796;Madrid;1.33;16845.11
+0796122;        Orcasur;079612;    Usera ;0796;Madrid;1.42;9391.55
+0796123;        San Fermín;079612;    Usera ;0796;Madrid;1.44;15936.11
+0796124;        Almendrales;079612;    Usera ;0796;Madrid;0.75;27480.00
+0796125;        Moscardó;079612;    Usera ;0796;Madrid;0.90;28230.00
+0796126;        Zofío;079612;    Usera ;0796;Madrid;0.77;17466.23
+0796127;        Pradolongo;079612;    Usera ;0796;Madrid;1.09;15475.23
+0796131;        Entrevías;079613;    Puente de Vallecas ;0796;Madrid;5.95;5636.97
+0796132;        San Diego;079613;    Puente de Vallecas ;0796;Madrid;1.06;37027.36
+0796133;        Palomeras Bajas;079613;    Puente de Vallecas ;0796;Madrid;1.72;22875.58
+0796134;        Palomeras Sureste;079613;    Puente de Vallecas ;0796;Madrid;3.05;13777.05
+0796135;        Portazgo;079613;    Puente de Vallecas ;0796;Madrid;1.24;22310.48
+0796136;        Numancia;079613;    Puente de Vallecas ;0796;Madrid;1.82;25219.78
+0796141;        Pavones;079614;    Moratalaz ;0796;Madrid;1.00;9118.00
+0796142;        Horcajo;079614;    Moratalaz ;0796;Madrid;0.73;8815.07
+0796143;        Marroquina;079614;    Moratalaz ;0796;Madrid;1.75;15633.71
+0796144;        Media Legua;079614;    Moratalaz ;0796;Madrid;1.02;17466.67
+0796145;        Fontarrón;079614;    Moratalaz ;0796;Madrid;0.98;17044.90
+0796146;        Vinateros;079614;    Moratalaz ;0796;Madrid;0.60;27948.33
+0796151;        Ventas;079615;    Ciudad Lineal ;0796;Madrid;3.22;14700.93
+0796152;        Pueblo Nuevo;079615;    Ciudad Lineal ;0796;Madrid;2.34;25838.89
+0796153;        Quintana;079615;    Ciudad Lineal ;0796;Madrid;0.71;34056.34
+0796154;        Concepción;079615;    Ciudad Lineal ;0796;Madrid;0.90;22828.89
+0796155;        San Pascual;079615;    Ciudad Lineal ;0796;Madrid;1.06;17079.25
+0796156;        San Juan Bautista;079615;    Ciudad Lineal ;0796;Madrid;1.04;11888.46
+0796157;        Colina;079615;    Ciudad Lineal ;0796;Madrid;0.56;10932.14
+0796158;        Atalaya;079615;    Ciudad Lineal ;0796;Madrid;0.25;6240.00
+0796159;        Costillares;079615;    Ciudad Lineal ;0796;Madrid;1.44;15230.56
+0796161;        Palomas;079616;    Hortaleza ;0796;Madrid;1.14;5859.65
+0796162;        Piovera;079616;    Hortaleza ;0796;Madrid;3.14;4601.91
+0796163;        Canillas;079616;    Hortaleza ;0796;Madrid;2.56;15820.31
+0796164;        Pinar del Rey;079616;    Hortaleza ;0796;Madrid;2.64;19682.95
+0796165;        Apostol Santiago;079616;    Hortaleza ;0796;Madrid;1.20;12627.50
+0796166;        Valdefuentes;079616;    Hortaleza ;0796;Madrid;15.19;3400.53
+0796171;        San Andrés;079617;    Villaverde ;0796;Madrid;9.10;4777.25
+0796172;        San Cristobal;079617;    Villaverde ;0796;Madrid;1.09;13939.45
+0796173;        Butarque;079617;    Villaverde ;0796;Madrid;6.37;2706.59
+0796174;        Los Rosales;079617;    Villaverde ;0796;Madrid;1.51;24163.58
+0796175;        Los Angeles;079617;    Villaverde ;0796;Madrid;2.14;14144.86
+0796181;        Casco Histórico de Vallecas;079618;    Villa de Vallecas ;0796;Madrid;49.45;1622.73
+0796182;        Santa Eugenia;079618;    Villa de Vallecas ;0796;Madrid;2.04;11822.06
+0796191;        Casco Histórico de Vicálvaro;079619;    Vicálvaro ;0796;Madrid;32.93;1566.57
+0796192;        Ambroz;079619;    Vicálvaro ;0796;Madrid;2.43;7598.77
+0796201;        Simancas;079620;    San Blas-Canillejas ;0796;Madrid;2.29;11572.05
+0796202;        Hellín;079620;    San Blas-Canillejas ;0796;Madrid;0.56;15773.21
+0796203;        Amposta;079620;    San Blas-Canillejas ;0796;Madrid;0.37;22213.51
+0796204;        Arcos;079620;    San Blas-Canillejas ;0796;Madrid;1.31;18129.77
+0796205;        Rosas;079620;    San Blas-Canillejas ;0796;Madrid;9.26;3403.02
+0796206;        Rejas;079620;    San Blas-Canillejas ;0796;Madrid;4.98;3165.66
+0796207;        Canillejas;079620;    San Blas-Canillejas ;0796;Madrid;1.63;17429.45
+0796208;        El Salvador;079620;    San Blas-Canillejas ;0796;Madrid;1.86;6112.90
+0796211;        Alameda de Osuna;079621;    Barajas ;0796;Madrid;1.98;9795.45
+0796212;        Aeropuerto;079621;    Barajas ;0796;Madrid;19.87;89.88
+0796213;        Casco Histórico de Barajas;079621;    Barajas ;0796;Madrid;0.64;11415.62
+0796214;        Timón;079621;    Barajas ;0796;Madrid;16.40;672.01
+0796215;        Corralejos;079621;    Barajas ;0796;Madrid;4.67;1577.09

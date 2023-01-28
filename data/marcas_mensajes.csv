@@ -1,0 +1,87 @@
+tipo,marca,n_mensajes
+Apparel,Burberry,12767
+Apparel,Calvin Klein,6515
+Apparel,Forever 21,34460
+Apparel,Lacoste,8862
+Apparel,Ross,8139
+Apparel,Zara,11099
+Apparel,A&F,1360
+Apparel,American Eagle,23381
+Apparel,Bershka,6328
+Apparel,Gap,19960
+Apparel,H&M,16881
+Apparel,Hollister,22604
+Apparel,Neiman Marcus,23475
+Apparel,Old Navy,31664
+Apparel,Saks,22061
+Apparel,Tommy Hilfiger,6280
+Apparel,Victoria's Secret,40683
+Bank,Wells Fargo,19547
+Big Box,Belk,36608
+Big Box,Costco,29076
+Big Box,Fnac,2887
+Big Box,John Lewis,30486
+Big Box,Meijer,52191
+Big Box,Nordstrom,38995
+Big Box,Big Lots,18523
+Big Box,Dollar Tree,36311
+Big Box,El Corte Ingles,662
+Big Box,K-mart,33240
+Big Box,Target,33934
+Big Box,Walmart,57248
+Book,Barnesandnoble,54203
+Boutique,GUCCI,24577
+Boutique,Louis Vuitton,10734
+Boutique,Michael Kors,24048
+Boutique,Prada,168
+Boutique,Chanel,11815
+Boutique,Hermes,624
+Convenience,7Eleven,7956
+Cosmetics,LOreal,5998
+Cosmetics,UltaBeauty,37217
+Cosmetics,B&BW,30132
+Cosmetics,Sephora,46365
+Department,Bloomingdales,10916
+Department,Dillards,19043
+Department,Macys,47057
+Department,Marshalls,36608
+Department,Boscovs,9438
+Department,Clinique,285
+Department,JCP,21988
+Department,Kohls,49597
+Department,Sears,39727
+Department,Sierra Trading Post,22711
+Department,tjmaxx,35787
+Department,tkmaxx,6963
+Electronics,GameStop,51131
+Electronics,RadioShack,22413
+Electronics,Samsung,92944
+Electronics,Best Buy,30380
+Electronics,Fredmeyer,26199
+Food,Starbucks,8720
+Food,Subway,22942
+Furniture,BB&B,20825
+Furniture,Home Goods,27256
+Furniture,Home Sense,4083
+Furniture,IKEA,68522
+Furniture,Williams Sonoma,27809
+Furniture,Home Depot,33499
+Furniture,Leroy Merlines,386
+Furniture,Lowes,39244
+Gift Shop,Hallmark,28311
+Jewerly,HelzbergDiamonds,13361
+Jewerly,Tiffany,26671
+Jewerly,Zales,17384
+Office supplies,Office Depot,38530
+Office supplies,Staples,28766
+Pet,PetSmart,45506
+Pet,Petco,53654
+Pharmacy,CVS,34938
+Pharmacy,Walgreens,45363
+Pharmacy,Rite Aid,17822
+Sporting Goods,Adidas,21131
+Sporting Goods,Nike,21776
+Supermarket,Albertsons,10649
+Supermarket,Kroger,25714
+Supermarket,WholeFoods,62112
+Warehouse,Samsclub,30504
